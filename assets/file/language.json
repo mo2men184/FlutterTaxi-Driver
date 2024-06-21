@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "language": "English",
+      "icon": "assets/flags/ic_uk.png",
+      "languageCode": "en"
+    },
+    {
+      "language": "Français",
+      "icon": "assets/flags/ic_france.png",
+      "languageCode": "fr"
+    },
+    {
+      "language": "中文",
+      "icon": "assets/flags/ic_china.png",
+      "languageCode": "zh"
+    },
+    {
+      "language": "日本人",
+      "icon": "assets/flags/ic_japan.png",
+      "languageCode": "ja"
+    },
+    {
+      "language": "भारतीय",
+      "icon": "assets/flags/ic_india.png",
+      "languageCode": "hi"
+    },
+    {
+      "language": "Deutschland",
+      "icon": "assets/flags/ic_germany.png",
+      "languageCode": "de"
+    },
+    {
+      "language": "Portugal",
+      "icon": "assets/flags/ic_portugal.png",
+      "languageCode": "pt"
+    },
+    {
+      "language": "Россия",
+      "icon": "assets/flags/ic_russia.png",
+      "languageCode": "ru"
+    }
+  ]
+}

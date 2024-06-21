@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "960909141974",
+    "firebase_url": "https://rugbyrides-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rugbyrides",
+    "storage_bucket": "rugbyrides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960909141974:android:b46b6d91ee296951c76677",
+        "android_client_info": {
+          "package_name": "com.rugbyrides.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960909141974-r3etkebs2vknhvbmu2704bqlq3moqgdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4kAlJiXbRgax8GiKDzA8iDrHQCGF_ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960909141974-r3etkebs2vknhvbmu2704bqlq3moqgdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960909141974-51fq94dht14tm1ak8c3c6n0l6kh7c9pg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rugbyrides.rugbyrides"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960909141974:android:b1c29b16d563ae4dc76677",
+        "android_client_info": {
+          "package_name": "com.rugbyrides.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960909141974-r3etkebs2vknhvbmu2704bqlq3moqgdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw4kAlJiXbRgax8GiKDzA8iDrHQCGF_ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960909141974-r3etkebs2vknhvbmu2704bqlq3moqgdf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960909141974-51fq94dht14tm1ak8c3c6n0l6kh7c9pg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rugbyrides.rugbyrides"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

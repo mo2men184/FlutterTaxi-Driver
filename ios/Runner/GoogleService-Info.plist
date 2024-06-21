@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>960909141974-600khjkdhinoqf5d1r02nqlmhu0knm30.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.960909141974-600khjkdhinoqf5d1r02nqlmhu0knm30</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>960909141974-ohdcrpp5s7iv0kegctrtvsh5o4s2p9i8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrQtp1mr0ohLRQ_yaZiRB97sONLHvdGyY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>960909141974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rugbyrides.driver</string>
+	<key>PROJECT_ID</key>
+	<string>rugbyrides</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rugbyrides.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:960909141974:ios:e871edde9a49b0a2c76677</string>
+	<key>DATABASE_URL</key>
+	<string>https://rugbyrides-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
